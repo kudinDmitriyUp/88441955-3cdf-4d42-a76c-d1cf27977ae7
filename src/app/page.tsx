@@ -42,7 +42,7 @@ export default function Home() {
           tagIcon={Gem}
           buttons={[
             {
-              text: "Explore Collection",
+              text: "Shop Now",
               href: "product"
             },
             {
