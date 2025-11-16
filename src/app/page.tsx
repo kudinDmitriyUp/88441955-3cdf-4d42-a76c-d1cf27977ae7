@@ -114,7 +114,7 @@ export default function Home() {
               icon: Shield
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763252604422-jof1ho4l.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763253073092-6erj4uf2.jpg"
           imageAlt="Master craftsman creating jewelry"
           imagePosition="right"
         />
